@@ -1,13 +1,8 @@
 {
-"": [
-    "_x005f_x000d_",
-    "_x000d_"
-    ],
-
-"squaremeter": [
-    "m2",
-    "sm",
-    "sqm",
-    "m²"
-    ]
+"_x005f_x000d_" :           [""],
+"_x000d_" :                 [""],
+"m2":                       ["squaremeter"],
+"sm":                       ["squaremeter"],
+"sqm":                      ["squaremeter"],
+"m²":                       ["squaremeter"]
 }
