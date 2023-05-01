@@ -1,8 +1,10 @@
 {
-"_x005f_x000d_" :           [""],
-"_x000d_" :                 [""],
-"m2":                       ["squaremeter"],
-"sm":                       ["squaremeter"],
-"sqm":                      ["squaremeter"],
-"m²":                       ["squaremeter"]
+"_x005f_x000d_" :               [""],
+"_x000d_" :                     [""],
+"m2":                           ["squaremeter"],
+"sm":                           ["squaremeter"],
+"sqm":                          ["squaremeter"],
+"m²":                           ["squaremeter"],
+"license[ number]+[0-9a-z]+":   [""],
+"(\\b\\w)\\1+\\b":              [""]
 }
